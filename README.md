@@ -5,6 +5,7 @@ me gustaría leer.
 
 # Leyendo actualmente
 - Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin
+- Patria de Fernando Aramburu
 
 # Libros leídos
 ## 2018
@@ -14,7 +15,6 @@ me gustaría leer.
 
 # Me gustaría leer...
 - Dispara yo ya estoy muerto de Julia Navarro
-- Patria de Julia Navarro
 - Tormenta de Espadas (Canción de Hielo y Fuego) de George R. R. Martin
 - Festín de Cuervos (Canción de Hielo y Fuego) de George R. R. Martin
 - Danza de Dragones (Canción de Hielo y Fuego) de George R. R. Martin

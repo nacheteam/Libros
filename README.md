@@ -26,3 +26,4 @@ me gustaría leer.
 - Rebelión en la Granja de George Orwell
 - Un Mundo Feliz de Aldous Huxley
 - El Mono Desnudo de Desmond Morris
+- Las Hijas del Capitán de María Dueñas

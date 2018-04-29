@@ -1,7 +1,8 @@
 # Explicación
 Esta es una lista de libros recientes que me he leído. La intención es
 mantener una lista de libros leídos por año y una lista de libros que 
-me gustaría leer.
+me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
+issue en el repositorio.
 
 # Leyendo actualmente
 - Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin

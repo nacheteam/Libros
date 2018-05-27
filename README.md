@@ -28,3 +28,5 @@ issue en el repositorio.
 - Un Mundo Feliz de Aldous Huxley
 - El Mono Desnudo de Desmond Morris
 - Las Hijas del Capitán de María Dueñas
+- El Hombre que Amaba a los Perros de Leonardo Padura
+- Las Mentiras de la Ciencia de Federico Di Trocchio

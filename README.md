@@ -5,17 +5,17 @@ me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
 issue en el repositorio.
 
 # Leyendo actualmente
-- Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin
-- Patria de Fernando Aramburu
+- Dispara yo ya estoy muerto de Julia Navarro
 
 # Libros leídos
 ## 2018
 - 1984 de George Orwell
 - En la Oscuridad de Antonio Pampliega
 - Juego de Tronos (Canción de Hielo y Fuego) de George R. R. Martin
+- Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin
 
 # Me gustaría leer...
-- Dispara yo ya estoy muerto de Julia Navarro
+- Patria de Fernando Aramburu
 - Tormenta de Espadas (Canción de Hielo y Fuego) de George R. R. Martin
 - Festín de Cuervos (Canción de Hielo y Fuego) de George R. R. Martin
 - Danza de Dragones (Canción de Hielo y Fuego) de George R. R. Martin

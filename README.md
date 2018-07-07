@@ -30,3 +30,5 @@ issue en el repositorio.
 - Las Hijas del Capitán de María Dueñas
 - El Hombre que Amaba a los Perros de Leonardo Padura
 - Las Mentiras de la Ciencia de Federico Di Trocchio
+- Matanzas en el Madrid Republicano de Felix Schlayer
+- Memorias de Santiago Carrillo

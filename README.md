@@ -32,3 +32,4 @@ issue en el repositorio.
 - Las Mentiras de la Ciencia de Federico Di Trocchio
 - Matanzas en el Madrid Republicano de Felix Schlayer
 - Memorias de Santiago Carrillo
+- Harry Potter de J. K. Rowling

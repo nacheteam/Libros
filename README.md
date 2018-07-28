@@ -33,3 +33,11 @@ issue en el repositorio.
 - Matanzas en el Madrid Republicano de Felix Schlayer
 - Memorias de Santiago Carrillo
 - Harry Potter de J. K. Rowling
+- La Ladrona de Libros de Markus Zusak
+- Dime Quién Soy de Julia Navarro
+- La Sombra del Viento de Carlos Ruiz Zafón
+- El Juego del Álgen de Carlos Ruiz Zafón
+- El Prisionero del Cielo de Carlos Ruiz Zafón
+- El Laberinto de los Espíritus de Carlos Ruiz Zafón
+- Habitaciones Cerradas de Care Santos
+- El Ladrón de Sueños de Verónica García Peña

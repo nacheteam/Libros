@@ -5,7 +5,7 @@ me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
 issue en el repositorio.
 
 # Leyendo actualmente
-- Dispara yo ya estoy muerto de Julia Navarro
+- El Hombre que Amaba a los Perros de Leonardo Padura
 
 # Libros leídos
 ## 2018
@@ -13,6 +13,7 @@ issue en el repositorio.
 - En la Oscuridad de Antonio Pampliega
 - Juego de Tronos (Canción de Hielo y Fuego) de George R. R. Martin
 - Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin
+- Dispara yo ya estoy muerto de Julia Navarro
 
 # Me gustaría leer...
 - Patria de Fernando Aramburu
@@ -28,7 +29,6 @@ issue en el repositorio.
 - Un Mundo Feliz de Aldous Huxley
 - El Mono Desnudo de Desmond Morris
 - Las Hijas del Capitán de María Dueñas
-- El Hombre que Amaba a los Perros de Leonardo Padura
 - Las Mentiras de la Ciencia de Federico Di Trocchio
 - Matanzas en el Madrid Republicano de Felix Schlayer
 - Memorias de Santiago Carrillo

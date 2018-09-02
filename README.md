@@ -5,7 +5,7 @@ me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
 issue en el repositorio.
 
 # Leyendo actualmente
-- El Hombre que Amaba a los Perros de Leonardo Padura
+- Dime Quién Soy de Julia Navarro
 
 # Libros leídos
 ## 2018
@@ -14,6 +14,7 @@ issue en el repositorio.
 - Juego de Tronos (Canción de Hielo y Fuego) de George R. R. Martin
 - Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin
 - Dispara yo ya estoy muerto de Julia Navarro
+- El Hombre que Amaba a los Perros de Leonardo Padura
 
 # Me gustaría leer...
 - Patria de Fernando Aramburu
@@ -34,7 +35,6 @@ issue en el repositorio.
 - Memorias de Santiago Carrillo
 - Harry Potter de J. K. Rowling
 - La Ladrona de Libros de Markus Zusak
-- Dime Quién Soy de Julia Navarro
 - La Sombra del Viento de Carlos Ruiz Zafón
 - El Juego del Álgen de Carlos Ruiz Zafón
 - El Prisionero del Cielo de Carlos Ruiz Zafón

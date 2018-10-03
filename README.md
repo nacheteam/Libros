@@ -5,7 +5,7 @@ me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
 issue en el repositorio.
 
 # Leyendo actualmente
-- Dime Quién Soy de Julia Navarro
+- Patria de Fernando Aramburu
 
 # Libros leídos
 ## 2018
@@ -15,9 +15,9 @@ issue en el repositorio.
 - Choque de Reyes (Canción de Hielo y Fuego) de George R. R. Martin
 - Dispara yo ya estoy muerto de Julia Navarro
 - El Hombre que Amaba a los Perros de Leonardo Padura
+- Dime Quién Soy de Julia Navarro
 
 # Me gustaría leer...
-- Patria de Fernando Aramburu
 - Tormenta de Espadas (Canción de Hielo y Fuego) de George R. R. Martin
 - Festín de Cuervos (Canción de Hielo y Fuego) de George R. R. Martin
 - Danza de Dragones (Canción de Hielo y Fuego) de George R. R. Martin

@@ -41,3 +41,7 @@ issue en el repositorio.
 - El Laberinto de los Espíritus de Carlos Ruiz Zafón
 - Habitaciones Cerradas de Care Santos
 - El Ladrón de Sueños de Verónica García Peña
+- La biblia de barro de Julia Navarro
+- Esclava de nadie de Agustín Sánchez Vidal
+- La loba de Al-Andalus de Sebastián Roa
+- La piel de la memoria de Jordi Sierra i Fabra

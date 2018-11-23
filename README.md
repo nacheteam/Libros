@@ -46,3 +46,4 @@ issue en el repositorio.
 - Esclava de nadie de Agustín Sánchez Vidal
 - La loba de Al-Andalus de Sebastián Roa
 - La piel de la memoria de Jordi Sierra i Fabra
+- Lo que me queda por vivir de Elvira Lindo

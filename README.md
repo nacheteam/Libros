@@ -5,7 +5,6 @@ me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
 issue en el repositorio.
 
 # Leyendo actualmente
-- Historia del Tiempo: del Big Bang a los Agujeros Negros de Stephen W. Hawking.
 
 # Libros leídos
 ## 2018
@@ -17,6 +16,7 @@ issue en el repositorio.
 - El Hombre que Amaba a los Perros de Leonardo Padura
 - Dime Quién Soy de Julia Navarro
 - Patria de Fernando Aramburu
+- Historia del Tiempo: del Big Bang a los Agujeros Negros de Stephen W. Hawking.
 
 # Me gustaría leer...
 - Tormenta de Espadas (Canción de Hielo y Fuego) de George R. R. Martin

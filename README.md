@@ -5,6 +5,7 @@ me gustaría leer. Estoy abierto a sugerencias que se quieran dejar como
 issue en el repositorio.
 
 # Leyendo actualmente
+- Rebelión en la Granja de George Orwell
 
 # Libros leídos
 ## 2018
@@ -27,7 +28,6 @@ issue en el repositorio.
 - El Nombre del Viento (Crónica del Asesino de Reyes) de Patrick Rothfuss
 - El Temor de un Hombre Sabio (Crónica del Asesino de Reyes) de Patrick Rothfuss.
 - ¿Las puertas de piedra (Crónica del Asesino de Reyes) de Patrick Rothfuss?
-- Rebelión en la Granja de George Orwell
 - Un Mundo Feliz de Aldous Huxley
 - El Mono Desnudo de Desmond Morris
 - Las Hijas del Capitán de María Dueñas

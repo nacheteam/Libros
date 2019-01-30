@@ -534,6 +534,14 @@ a:visited {
       display: inline-block;
       color: gray;
   }
+  .star.half:after {
+      content:'\2605';
+      color: gold;
+      position: absolute;
+      margin-left: -23px;
+      width: 10px;
+      overflow: hidden;
+  }
 }
 .star:last-child {
     margin-right: 0;

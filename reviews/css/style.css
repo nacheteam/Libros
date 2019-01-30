@@ -534,6 +534,8 @@ a:visited {
       display: inline-block;
       color: gray;
   }
+}
+@media screen and (max-width:600px) {
   .star.half:after {
       content:'\2605';
       color: gold;
